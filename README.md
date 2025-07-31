@@ -65,11 +65,20 @@ This deep learning project compares the performance of a dense neural network an
 
 ---
 
+## 📈 Performance Plots
+
+### 🔹 Accuracy Over Epochs
+![Accuracy Over Epochs](images/train_val_acc.png)
+
+### 🔹 Loss Over Epochs
+![Loss Over Epochs](images/train_val_loss.png)
+
+### 🧠 Sample Predictions (NN vs CNN)
+![Sample Predictions](images/true_vs_predictions.png)
+
+
 ## 📦 Requirements
 
 ```bash
 pip install -r requirements.txt
-
-
-![Accuracy Plot](images/train val acc.png)
 
