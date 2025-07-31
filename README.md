@@ -69,3 +69,7 @@ This deep learning project compares the performance of a dense neural network an
 
 ```bash
 pip install -r requirements.txt
+
+
+![Accuracy Plot](images/train val acc.png)
+
